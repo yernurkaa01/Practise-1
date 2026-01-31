@@ -1,0 +1,3 @@
+name = "John"
+age = 20
+print(f"My name is {name}, I am {age}")
